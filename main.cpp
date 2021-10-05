@@ -4,6 +4,6 @@
 
 int main (int, char **) {
     std::cout << "Version: " << version() << std::endl;
-    std::cout << "Hello, Abba!" << std::endl;
+    std::cout << "Hello, User!" << std::endl;
     return 0;
 }
